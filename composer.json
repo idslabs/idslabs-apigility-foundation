@@ -1,0 +1,6 @@
+{
+	"name" : "idslabs/idslabs-apigility-foundation",
+	"require": {
+		"roave/security-advisories": "dev-master"
+	}
+}
